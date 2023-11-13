@@ -1,0 +1,1 @@
+* Did not add any gitignore to practice same thing on both my environment.
